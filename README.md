@@ -1,0 +1,2 @@
+# Pandas-varios
+Useful shortcuts
